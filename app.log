@@ -1,0 +1,17 @@
+2025-08-17 17:50:14,812 [INFO] - Using device: CPU
+2025-08-17 17:50:14,813 [INFO] - Loading model: distilbert-base-uncased-finetuned-sst-2-english
+2025-08-17 17:50:20,166 [WARNING] - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-17 17:50:35,646 [INFO] - Running inference on: ['I love using Hugging Face models!', 'This is the worst movie I have ever seen.']
+2025-08-17 18:36:03,581 [INFO] - Using device: CPU
+2025-08-17 18:36:03,585 [INFO] - Loading model: distilbert-base-uncased-finetuned-sst-2-english
+2025-08-17 18:36:05,163 [INFO] - Running inference on: ['I love using Hugging Face models!', 'This is the worst movie I have ever seen.']
+2025-08-17 18:36:23,882 [INFO] - Using device: CPU
+2025-08-17 18:36:23,884 [INFO] - Loading model: distilbert-base-uncased-finetuned-sst-2-english
+2025-08-17 18:36:25,565 [INFO] - Running inference on: ['I love using Hugging Face models!', 'This is the worst movie I have ever seen.']
+2025-08-17 19:06:20,022 - INFO - Loading model: distilbert-base-uncased-finetuned-sst-2-english
+2025-08-17 19:06:21,358 - INFO - Using device: CPU
+2025-08-17 19:06:21,359 - INFO - Running inference on 4 sentences...
+2025-08-17 19:06:21,759 - INFO - Input: I love Hugging Face, it's amazing! | Prediction: {'label': 'POSITIVE', 'score': 0.999883770942688}
+2025-08-17 19:06:21,760 - INFO - Input: This is the worst movie I've ever seen. | Prediction: {'label': 'NEGATIVE', 'score': 0.9997653365135193}
+2025-08-17 19:06:21,760 - INFO - Input: Sunny days make me happy. | Prediction: {'label': 'POSITIVE', 'score': 0.9998893737792969}
+2025-08-17 19:06:21,760 - INFO - Input: I am not sure about this product. | Prediction: {'label': 'NEGATIVE', 'score': 0.9996850490570068}
