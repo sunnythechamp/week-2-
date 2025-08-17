@@ -15,3 +15,10 @@
 2025-08-17 19:06:21,760 - INFO - Input: This is the worst movie I've ever seen. | Prediction: {'label': 'NEGATIVE', 'score': 0.9997653365135193}
 2025-08-17 19:06:21,760 - INFO - Input: Sunny days make me happy. | Prediction: {'label': 'POSITIVE', 'score': 0.9998893737792969}
 2025-08-17 19:06:21,760 - INFO - Input: I am not sure about this product. | Prediction: {'label': 'NEGATIVE', 'score': 0.9996850490570068}
+2025-08-17 19:15:47,951 - INFO - Loading model: distilbert-base-uncased-finetuned-sst-2-english
+2025-08-17 19:15:49,680 - INFO - Using device: CPU
+2025-08-17 19:15:49,681 - INFO - Running inference on 4 sentences...
+2025-08-17 19:15:50,992 - INFO - Input: I love Hugging Face, it's amazing! | Prediction: {'label': 'POSITIVE', 'score': 0.999883770942688}
+2025-08-17 19:15:50,993 - INFO - Input: This is the worst movie I've ever seen. | Prediction: {'label': 'NEGATIVE', 'score': 0.9997653365135193}
+2025-08-17 19:15:50,993 - INFO - Input: Sunny days make me happy. | Prediction: {'label': 'POSITIVE', 'score': 0.9998893737792969}
+2025-08-17 19:15:50,994 - INFO - Input: I am not sure about this product. | Prediction: {'label': 'NEGATIVE', 'score': 0.9996850490570068}
